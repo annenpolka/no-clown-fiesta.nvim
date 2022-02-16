@@ -1,8 +1,8 @@
 local colors = {
   fg = "#E1E1E1",
   bg = "#151515",
-  alt_bg = "#171717",
-  accent = "#202020",
+  alt_bg = "#202020",
+  accent = "#252525",
   white = "#E1E1E1",
   gray = "#373737",
   medium_gray = "#727272",
