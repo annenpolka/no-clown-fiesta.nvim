@@ -56,7 +56,7 @@ local highlights = {
   NonText = { fg = C.bg },
   Variable = { fg = C.white },
   String = { fg = C.blue },
-  Character = { fg = C.light_green },
+  Character = { fg = C.brown },
   Constant = { fg = C.orange },
   Number = { fg = C.red },
   Boolean = { fg = C.red },
